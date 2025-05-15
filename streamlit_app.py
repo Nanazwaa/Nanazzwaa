@@ -7,4 +7,4 @@ st.write(
 st.image("IMG_5909.jpeg",widht=150)
 st.write("\n")
 st.subheader("Nanazwa Aura D")
-st.write("Mari Belajar Bersama Yesz!")
+st.write("Mari Belajar Bersama  Yesz!")
