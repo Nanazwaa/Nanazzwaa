@@ -1,8 +1,8 @@
 import streamlit as st
 
-st.title("😆💞❤ Hiii wllcome nanazwarnas")
+st.title("😆💞❤ ganti gant wllcome nanazwarnas")
 st.write(
-    "20-04-2021)."
+    "20-04-ganti)."
 )
 st.image("IMG_6012.jpeg",width=150)
 st.write("\n")
