@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("😆💞❤ ganti gant wllcome nanazwarnas")
+st.title("😆💞❤ ganti gantiiiii wllcome nanazwarnas")
 st.write(
     "20-04-ganti)."
 )
